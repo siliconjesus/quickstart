@@ -1,0 +1,4 @@
+baseURL = 'http://blog.siliconjes.us/'
+languageCode = 'en-us'
+title = 'Get Off my TTY'
+theme = "ananke"
